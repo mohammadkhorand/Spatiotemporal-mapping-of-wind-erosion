@@ -21,10 +21,6 @@ wilcoxon test.py
 
 Statistical comparison of model performances using the Wilcoxon signed-rank test.
 
-Data files
-
-Environmental variables and derived datasets used for model training and validation.
-
 Methods
 The modeling workflow includes the following steps:
 
